@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "e35d9d36b3d613d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2ad5e3ba1d071bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "orgs/companies/Duo.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14c713b32b7811ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "366de9f9f1e7e38e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0dda3550a573ba0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c85205ed0fbbdca0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c93deb468a269479",
+    "type": "split",
+    "children": [
+      {
+        "id": "e82d60417b8654ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a76baf0ca98c3fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "orgs/companies/Duo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b2ad5e3ba1d071bc",
+  "lastOpenFiles": [
+    "orgs/companies/Duo.md",
+    "Dug Song.md",
+    "events/conferences/Untitled.md",
+    "orgs/companies/Cisco.md",
+    "orgs/companies/SEQRD.md",
+    "orgs/companies/PSI.md",
+    "orgs/companies/OneID.md",
+    "orgs/companies/IEEE.md",
+    "orgs/companies/Galois.md",
+    "orgs/publishers/Springer.md"
+  ]
+}
