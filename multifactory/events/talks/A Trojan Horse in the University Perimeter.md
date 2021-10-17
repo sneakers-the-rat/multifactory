@@ -5,3 +5,5 @@ Tuesday, June 02 | 4:15PM–4:45PM ET
 Presenters
 [[Sari Frances]]
 [[Kelechi Okere]]
+
+at [[educause]] [[Security Professionals Conference]]

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b2ad5e3ba1d071bc",
+        "id": "6b846baa7f1a97e9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "orgs/companies/Duo.md",
+            "file": "events/talks/Security Controls at UO.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rick",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "orgs/companies/Duo.md",
+                "file": "events/talks/Security Controls at UO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b2ad5e3ba1d071bc",
+  "active": "6b846baa7f1a97e9",
   "lastOpenFiles": [
-    "orgs/companies/Duo.md",
-    "Dug Song.md",
-    "events/conferences/Untitled.md",
-    "orgs/companies/Cisco.md",
-    "orgs/companies/SEQRD.md",
-    "orgs/companies/PSI.md",
-    "orgs/companies/OneID.md",
-    "orgs/companies/IEEE.md",
+    "events/talks/Security Controls at UO.md",
+    "orgs/universities/University of Oregon.md",
+    "orgs/lobbies/STM Association.md",
+    "orgs/lobbies/MFA Cohortium.md",
     "orgs/companies/Galois.md",
-    "orgs/publishers/Springer.md"
+    "people/duo/Dug Song.md",
+    "orgs/companies/Duo.md",
+    "people/NIST/Kelley Dempsey.md",
+    "people/SNSI/Rick Anderson.md",
+    "events/talks/A Trojan Horse in the University Perimeter.md"
   ]
 }
