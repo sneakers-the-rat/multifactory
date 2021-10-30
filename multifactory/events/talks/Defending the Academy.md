@@ -1,0 +1,1 @@
+2018 - by [[Christian Schreiber]] at [[PMP]] and [[FireEye]] http://www.nwacc.org/programs/workshops/network_security/downloads2018/DefendingTheAcademy_Schreiber.pdf

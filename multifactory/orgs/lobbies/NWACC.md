@@ -1,2 +1,2 @@
 - talks: [[NWACC - Risks & Trends]]
-- 
+- [[Defending the Academy]]

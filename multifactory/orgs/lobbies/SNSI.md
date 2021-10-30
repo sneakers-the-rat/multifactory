@@ -18,3 +18,10 @@ https://www.snsi.info/librarian-resources/
 - [[Andrew J. Wesolek]]
 - [[David W. Green]]
 - [[Linda Van Keuren]]
+
+## Events
+[[Cybersecurity Landscape]]
+
+
+## Writing
+- http://bjoern.brembs.net/2020/10/is-the-snsi-the-new-prism/

@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "e35d9d36b3d613d9",
+    "id": "c66003f54654271f",
     "type": "split",
     "children": [
       {
-        "id": "6b846baa7f1a97e9",
+        "id": "f77f59be561319fa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "events/talks/Security Controls at UO.md",
+            "file": "events/talks/Defending the Academy.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "events/talks/Security Controls at UO.md",
+                "file": "events/talks/Defending the Academy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b846baa7f1a97e9",
+  "active": "f77f59be561319fa",
   "lastOpenFiles": [
-    "events/talks/Security Controls at UO.md",
-    "orgs/universities/University of Oregon.md",
-    "orgs/lobbies/STM Association.md",
-    "orgs/lobbies/MFA Cohortium.md",
-    "orgs/companies/Galois.md",
-    "people/duo/Dug Song.md",
-    "orgs/companies/Duo.md",
-    "people/NIST/Kelley Dempsey.md",
-    "people/SNSI/Rick Anderson.md",
-    "events/talks/A Trojan Horse in the University Perimeter.md"
+    "events/talks/Defending the Academy.md",
+    "orgs/publishers/Elsevier.md",
+    "orgs/publishers/Elsevier Subsidiaries/SciVal.md",
+    "orgs/publishers/Elsevier Subsidiaries/LexisNexis.md",
+    "technologies/EZproxy.md",
+    "technologies/MFA.md",
+    "technologies/SeamlessAccess.md",
+    "technologies/Detection On Demand.md",
+    "Shadow Health.md",
+    "Authess.md"
   ]
 }
