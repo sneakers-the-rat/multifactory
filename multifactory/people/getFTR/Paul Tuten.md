@@ -1,0 +1,1 @@
+Chief Product & Technology Officer, [[Taylor & Francis]]

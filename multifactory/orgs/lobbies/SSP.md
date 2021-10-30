@@ -1,0 +1,1 @@
+Society for Scholarly Publishing

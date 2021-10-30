@@ -1,0 +1,3 @@
+
+https://www.nature.com/articles/445347a
+In an enthusiastic e-mail sent to colleagues after the meeting, Susan Spilka, [[Wiley]]'s director of corporate communications, said [[Eric Dezenhall]] explained that publishers had acted too defensively on the free-information issue and worried too much about making precise statements. Dezenhall noted that if the other side is on the defensive, it doesn't matter if they can discredit your statements, she added: “Media messaging is not the same as intellectual debate.

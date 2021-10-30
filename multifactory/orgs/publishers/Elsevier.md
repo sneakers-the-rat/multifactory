@@ -13,6 +13,7 @@ Owned by [[RELX]]
 - [[SciBite]]
 - [[Authess]]
 - [[Shadow Health]]
+- [[Scopus]]
 
 ## Technologies
 - 

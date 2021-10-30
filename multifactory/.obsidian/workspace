@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f77f59be561319fa",
+        "id": "8abcaa7319e3bcc9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "events/talks/Defending the Academy.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rick",
+                "query": "university",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 207
   },
   "right": {
     "id": "c93deb468a269479",
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "events/talks/Defending the Academy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f77f59be561319fa",
+  "active": "8abcaa7319e3bcc9",
   "lastOpenFiles": [
-    "events/talks/Defending the Academy.md",
-    "orgs/publishers/Elsevier.md",
-    "orgs/publishers/Elsevier Subsidiaries/SciVal.md",
-    "orgs/publishers/Elsevier Subsidiaries/LexisNexis.md",
-    "technologies/EZproxy.md",
-    "technologies/MFA.md",
-    "technologies/SeamlessAccess.md",
-    "technologies/Detection On Demand.md",
-    "Shadow Health.md",
-    "Authess.md"
+    "events/talks/NWACC - Risks & Trends.md",
+    "events/talks/Security Controls at UO.md",
+    "events/talks/A Trojan Horse in the University Perimeter.md",
+    "Michael Clarke.md",
+    "orgs/publishers/Springer.md",
+    "orgs/publishers/SAGE.md",
+    "orgs/companies/PSI.md",
+    "technologies/GetFTR.md",
+    "orgs/societies/American Chemical Society.md",
+    "people/getFTR/Deirdre Silver.md"
   ]
 }

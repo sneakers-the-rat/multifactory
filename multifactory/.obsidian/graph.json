@@ -8,7 +8,7 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:orgs",
+      "query": "path:orgs/publishers",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -34,18 +34,46 @@
         "a": 1,
         "rgb": 5408992
       }
+    },
+    {
+      "query": "path:orgs/universities",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:technologies",
+      "color": {
+        "a": 1,
+        "rgb": 1810706
+      }
+    },
+    {
+      "query": "path:orgs/companies",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:orgs/lobbies",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.3,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 4.82708918539326,
-  "collapse-forces": false,
-  "centerStrength": 0.484375,
-  "repelStrength": 15.7451923076923,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1.0619391025641,
+  "lineSizeMultiplier": 2.99694177350427,
+  "collapse-forces": true,
+  "centerStrength": 0.295733848314607,
+  "repelStrength": 14.644764957265,
   "linkStrength": 1,
-  "linkDistance": 141,
-  "scale": 0.802549075639452,
+  "linkDistance": 60,
+  "scale": 0.5361829905484363,
   "close": false
 }
