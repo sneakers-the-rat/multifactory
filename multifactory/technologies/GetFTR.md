@@ -1,6 +1,12 @@
 https://www.getfulltextresearch.com/
 
-worjks with [[SeamlessAccess]]
+" In future development, publishers will be able to choose to provide access to an alternative version of non-subscribed content. "
+
+* worjks with [[SeamlessAccess]]
+* A continuation of [[RA21]]
+
+# Sponsors
+[[American Chemical Society]], [[Elsevier]], [[Springer]], [[Taylor & Francis]], [[Wiley]]
 
 # People
 
@@ -25,6 +31,17 @@ worjks with [[SeamlessAccess]]
 - [[Third Iron]]
 - [[IEEE]] Xplore
 - [[Silverchair]]
+
+## Steering Committee
+
+- [[Steven Inchcoombe]] - [[Springer]]
+- [[Laird Barrett]] - [[Springer]]
+- [[Olivier Dumon]] - [[Elsevier]]
+- [[Philip Haseldine]] - [[Taylor & Francis]]
+- [[Mark Heaver]] - [[Taylor & Francis]]
+- [[Todd Toler]] - [[Wiley]]
+- [[Ale de Vries]] - [[Elsevier]]
+- 
 
 # Articles
 

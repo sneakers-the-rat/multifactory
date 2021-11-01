@@ -1,0 +1,1 @@
+Product manager [[Wolters Kluwer]], [[Learning Research & Practice]]

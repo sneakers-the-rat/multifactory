@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "728b031311fcd460",
+        "id": "ae583192f0ff71ff",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "STM.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "STM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "728b031311fcd460",
+  "active": "ae583192f0ff71ff",
   "lastOpenFiles": [
-    "events/talks/NWACC - Risks & Trends.md",
-    "events/talks/Security Controls at UO.md",
-    "events/talks/A Trojan Horse in the University Perimeter.md",
-    "Michael Clarke.md",
-    "orgs/publishers/Springer.md",
-    "orgs/publishers/SAGE.md",
-    "orgs/companies/PSI.md",
+    "STM.md",
+    "SUMMARY.md",
+    "Screen Shot 2021-10-16 at 5.31.55 PM.png",
+    "orgs/RA21 Corporate Pilot.md",
+    "orgs/PMP.md",
+    "people/Catherine Dixon.md",
+    "people/Don Hamparian.md",
+    "orgs/NISO Information Policy and Analysis Topic Committee.md",
     "technologies/GetFTR.md",
-    "orgs/societies/American Chemical Society.md",
-    "people/getFTR/Deirdre Silver.md"
+    "technologies/SeamlessAccess.md"
   ]
 }
