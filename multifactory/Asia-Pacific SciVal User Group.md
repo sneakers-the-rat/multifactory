@@ -1,0 +1,2 @@
+* https://www.elsevier.com/en-au/solutions/scival/apac-scival-user-group-meeting
+* https://www.elsevier.com/__data/assets/pdf_file/0010/1179244/01.-SciVal-Workflow202112thSciVal-User-Group-Meeting.pdf*

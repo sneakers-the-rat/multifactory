@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ae583192f0ff71ff",
+        "id": "0fad9d4fc83b6c77",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "STM.md",
+            "file": "Article 17.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "university",
+                "query": "clark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM.md",
+                "file": "Article 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 281
   },
-  "active": "ae583192f0ff71ff",
+  "active": "0fad9d4fc83b6c77",
   "lastOpenFiles": [
+    "Article 17.md",
+    "STM Spring Conference 2021.md",
+    "SNSI - working together to combat the threat of cybercrime.md",
+    "orgs/lobbies/STM Association.md",
     "STM.md",
-    "SUMMARY.md",
-    "Screen Shot 2021-10-16 at 5.31.55 PM.png",
-    "orgs/RA21 Corporate Pilot.md",
-    "orgs/PMP.md",
-    "people/Catherine Dixon.md",
-    "people/Don Hamparian.md",
-    "orgs/NISO Information Policy and Analysis Topic Committee.md",
-    "technologies/GetFTR.md",
-    "technologies/SeamlessAccess.md"
+    "events/talks/Cybersecurity Landscape.md",
+    "papers/articles/Protecting libraries from cyber attack.md",
+    "orgs/lobbies/educause.md",
+    "events/talks/A Trojan Horse in the University Perimeter.md",
+    "papers/articles/Sci-Hub and Academic Identity Theft.md"
   ]
 }
