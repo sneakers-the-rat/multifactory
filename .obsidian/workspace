@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "5b53e3e50035216b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6d6deacdb2b5c90",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "multifactory/papers/articles/Landscape Analysis - The Changing Academic Publishing Industry - Implications for Academic Institutions.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "775ae7ea749e857e",
+    "type": "split",
+    "children": [
+      {
+        "id": "95f090feaa86ab18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cd27ab4276a59b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "490a5307ce3b906a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bed994804e2261b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "618864e7d01cb5ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd497d39bfbd100d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "multifactory/papers/articles/Landscape Analysis - The Changing Academic Publishing Industry - Implications for Academic Institutions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b6d6deacdb2b5c90",
+  "lastOpenFiles": [
+    "multifactory/papers/articles/Landscape Analysis - The Changing Academic Publishing Industry - Implications for Academic Institutions.md",
+    "enterprise_concepts/Gray Markets and Parallel Imports.md",
+    "enterprise_concepts/Business-to-Business Model.md",
+    "multifactory/people/Claudio Aspesi.md",
+    "multifactory/people/Catherine Dixon.md",
+    "multifactory/people/Corey Roach.md",
+    "multifactory/papers/articles/A Three-Pronged Approach to Fighting Digital Piracy.md",
+    "multifactory/papers/articles/2016 EDUCAUSE CDS Report.md",
+    "multifactory/papers/articles/Protecting libraries from cyber attack.md",
+    "multifactory/Article 17.md"
+  ]
+}
