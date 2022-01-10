@@ -4,12 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "b6d6deacdb2b5c90",
+        "id": "de0d7c8799929137",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "multifactory/papers/articles/Landscape Analysis - The Changing Academic Publishing Industry - Implications for Academic Institutions.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "eba4bec3218c547d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "multifactory/orgs/publishers/Elsevier.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "46ee55fca0902f40",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "multifactory/orgs/publishers/RELX.md",
             "mode": "source",
             "source": false
           }
@@ -87,17 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b6d6deacdb2b5c90",
+  "active": "de0d7c8799929137",
   "lastOpenFiles": [
     "multifactory/papers/articles/Landscape Analysis - The Changing Academic Publishing Industry - Implications for Academic Institutions.md",
-    "enterprise_concepts/Gray Markets and Parallel Imports.md",
+    "multifactory/papers/articles/Sci-Hub How Does It Work.md",
+    "multifactory/orgs/RA21 Corporate Pilot.md",
+    "multifactory/orgs/publishers/Elsevier.md",
+    "multifactory/orgs/publishers/RELX.md",
     "enterprise_concepts/Business-to-Business Model.md",
+    "multifactory/orgs/publishers/Academic Publshing Market.md",
+    "enterprise_concepts/Gray Markets and Parallel Imports.md",
     "multifactory/people/Claudio Aspesi.md",
-    "multifactory/people/Catherine Dixon.md",
-    "multifactory/people/Corey Roach.md",
-    "multifactory/papers/articles/A Three-Pronged Approach to Fighting Digital Piracy.md",
-    "multifactory/papers/articles/2016 EDUCAUSE CDS Report.md",
-    "multifactory/papers/articles/Protecting libraries from cyber attack.md",
-    "multifactory/Article 17.md"
+    "multifactory/people/Catherine Dixon.md"
   ]
 }

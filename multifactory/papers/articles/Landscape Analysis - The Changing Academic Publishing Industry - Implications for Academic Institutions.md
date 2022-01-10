@@ -1,19 +1,20 @@
+Title: Landscape Analysis: The Changing Academic Publishing Industry - Implications for Academic Institutions
+
+Date: 20190328
+
+**Tags**: #Publishing #SPARC
+
 Lead Author
 [[Claudio Aspesi]]
 
-Published March 28 2019
 
 [Article](https://infrastructure.sparcopen.org/landscape-analysis)
+
 Citation
 Aspesi, Claudio, Nicole S. Allen, Raym Crow, Shawn Daugherty, Heather Joseph, Joseph T. W. McArthur, and Nick Shockey. 2019. “SPARC Landscape Analysis.” , March 29. https://doi.org/10.31229/osf.io/58yhb
 
 Central Message:
-> It is important to underscore upfront that we are not opposing the use of data and data
-> analytics in academic institutions. This project is aimed at ensuring that academic
-> institutions retain control over the use of data and data analytics, that the use of data
-> and data analytic tools is consistent with the goals of the academic community and that
-> academic institutions are properly equipped to deal with the risks and implications posed
-> by the rising amount of data being collected, analyzed, and used. pp 8
+> It is important to underscore upfront that we are not opposing the use of data and data analytics in academic institutions. This project is aimed at ensuring that academic institutions retain control over the use of data and data analytics, that the use of data and data analytic tools is consistent with the goals of the academic community and that academic institutions are properly equipped to deal with the risks and implications posed by the rising amount of data being collected, analyzed, and used. pp 8
 
 
 # Summary Statement from Authors
@@ -62,5 +63,28 @@ Shifting services into data analytics/monitoring signals a move to control core 
 ___
 ## Research
 ### Background - An Industry in Transition
+
+To the authors, the moist obvious future direction for continued growth is to use the data they have access to and offer data analytics services.
+
+
+#### [[Elsevier]]
+
+The company bypasses academic librarians by attempting to deal with offices above them at least in academic institutions. Further, it lobbies extensively to extend copyrights in new ways. For some of their historical publishing practices, see [[Elsevier#Practices]].
+
+In short, the authors state that there are little to no increases in operating costs that justify the price increases the company provides:
+
+> The first part of the argument is surprising – if productivity at Elsevier does not rise, then management is not doing its job properly – and the second part of the argument is wrong – administration or IT staff does not rise just because more articles are published. In light of the financial pressure on academic library budgets, refusing to pass along some of the savings is strictly a commercial and business decision.
+
+The services they invest in with these profits don't benefit the libraries that purchase them and so those who buy their services are effectively funding the benefits for customers other than themselves as well as Elsevier shareholders.
+- One question here: We don't seem to mind much about this with respect to other kinds of business/services right? We use services from groups and those funds are used to fund other services of the organization even if it doesn't serve us better. Perhaps it's because we have literally no other choice with respect to publishers?
+
+The authors state that increases in the number of articles published does not guarantee that the research is of any good quality. Further, that many of the articles or journals that are added have little to no readership nor subscribers.
+- Is this necessarily a bad thing? I suppose in terms of forcing libraries to fund journals they would never read/subscribe to it is a bad thing. Similar to how if you're buying cable (shivers) you'll pay for a ton of channels you won't want to watch. But *someone* want's to watch some of it right? Is it better if those avenues for publication did not exist? If a work is published but nobody is there to read it, does it really exist? I suppose high quality work would be published in better known journals by default maybe...
+- Further, there's no assurance of quality of work based on publication location either nor author/institution/lab. This seems like a clear avenue of attack against publishers, but doesn't seem to have the sharpest of teeth... Even if it's of course good to ensure that the probability of low quality research is as low as possible, simply reducing the number of published papers doesn't seem to make that necessarily most likely.
+
+##### Future Strategy
+
+
+
 
 
