@@ -8,3 +8,35 @@ The Society for Scholarly Publishing established _The Scholarly Kitchen_ in Febr
 4.  Suggest areas that need more input by identifying gaps in knowledge
 5.  Translate findings from related endeavors (publishing outside STM, online business, user trends)
 6.  Attract the community of STM information experts interested in these things and give them a place to contribute
+
+
+## People
+- EIC [[David Crotty]]
+- Associate Editor [[Angela Cochran]]
+
+## "Chefs" in archive
+- [[Rick Anderson]]
+- [[Todd Carpenter]]
+- [[Michael Clarke]]
+- [[Angela Cochran]]
+- [[Lettie Y. Conrad]]
+- [[David Crotty]]
+- [[Phil Davis]]
+- [[Joseph Esposito]]
+- [[Robert Harington]]
+- [[Sian Harris]]
+- [[Haseeb Irfanullah]]
+- [[Lisa Janicke Hinchliffe]]
+- [[Phill Jones]]
+- [[Judy Luther]]
+- [[Alice Meadows]]
+- [[Ann Michael]]
+- [[Alison Mudditt]]
+- [[Jill O'Niell]]
+- [[Charlie Rapple]]
+- [[Roger C. Schonfeld]]
+- [[David Smith]]
+- [[Tao Tao]]
+- [[Tim Vines]]
+- [[Jasmine Wallace]]
+- [[Karin Wulf]]

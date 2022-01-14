@@ -1,4 +1,4 @@
-- https://www.stm-assoc.org/2021_05_17_STM_Spring_Conference_2021_Article_Sharing_Framework_part_1.pdf 
+kent- https://www.stm-assoc.org/2021_05_17_STM_Spring_Conference_2021_Article_Sharing_Framework_part_1.pdf 
 - https://www.stm-assoc.org/2021_05_17_STM_Spring_Conference_2021_Article_Sharing_Framework_part_2.pdf
 - https://www.stm-assoc.org/2021_05_17_STM_Spring_Conference_2021_Article_Sharing_Framework_part_3.pdf
 - https://www.stm-assoc.org/2021_04_23_Protocol_for_Article_Sharing_Framework_2021.pdf

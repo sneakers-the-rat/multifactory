@@ -1,0 +1,1 @@
+"The Geyser" is a subscription e-newsletter covering scholarly and scientific publishing, technology, business, and how these fit with the larger information sphere.

@@ -1,0 +1,4 @@
+- CEO [[Encyclopaedia Britannica]]
+- CEO [[Tribal Voice]]
+- CEO [[SRI Consulting]]
+- Board of Directors at [[Meta]]

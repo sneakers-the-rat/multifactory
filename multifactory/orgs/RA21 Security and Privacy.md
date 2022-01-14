@@ -10,7 +10,7 @@
 [[Todd Carpenter]] [[NISO]]
 [[Christian Pruvost]] [[Elsevier]]
 [[Andy Sanford]] [[EBSCO]]
-[[Ralph Youngen]] [[ACS]]
+[[Ralph Youngen]] [[American Chemical Society]]
 [[Heather Ruland Staines]] [[Hypothes.is]]
 [[Adam Snook]] [[OpenAthens]]
 [[Richard Northover]] [[Elsevier]]
