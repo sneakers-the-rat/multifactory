@@ -2,7 +2,7 @@ Title: Landscape Analysis: The Changing Academic Publishing Industry - Implicati
 
 Date: 20190328
 
-**Tags**: #Publishing #SPARC
+**Tags**: #Publishing #SPARC 
 
 Lead Author
 [[Claudio Aspesi]]
@@ -11,7 +11,9 @@ Lead Author
 [Article](https://infrastructure.sparcopen.org/landscape-analysis)
 
 Citation
-Aspesi, Claudio, Nicole S. Allen, Raym Crow, Shawn Daugherty, Heather Joseph, Joseph T. W. McArthur, and Nick Shockey. 2019. “SPARC Landscape Analysis.” , March 29. https://doi.org/10.31229/osf.io/58yhb
+Aspesi, Claudio, [[Nicole S. Allen]], [[Raym Crow]], [[Shawn Daugherty]], [[Heather Joseph]], [[Joseph T. W. McArthur]], and [[Nick Shockey]]. 2019. “[[SPARC]] Landscape Analysis.” , March 29. https://doi.org/10.31229/osf.io/58yhb
+
+
 
 Central Message:
 > It is important to underscore upfront that we are not opposing the use of data and data analytics in academic institutions. This project is aimed at ensuring that academic institutions retain control over the use of data and data analytics, that the use of data and data analytic tools is consistent with the goals of the academic community and that academic institutions are properly equipped to deal with the risks and implications posed by the rising amount of data being collected, analyzed, and used. pp 8
@@ -39,16 +41,16 @@ In apparent effort to be fundamental to the conducting of end-to-end business of
 
 "Fault Lines appearing": Driven by media usage behavior (ie cable TV users "cutting the cord")
 - Librarians are taking tougher stances when negotiating renewal of scholarly journal collections, more willing to let them expire
-- Digital dissmenination has enabled piracy to play an increasing role in the form of 
+- Digital dissmenination has enabled piracy ([[Sci-Hub]]) to play an increasing role in the form of 
 [[Gray Markets and Parallel Imports]] as well as unlicensed downloads of digital copies
 
 Response of industry:
 - Legal action
 - Lower prices or at least rate of price increases to reflect changing elasticity of demand
-- New business models like hybrid journals that maintain subscriptions but accept Open Access Publications
+- New business models like hybrid journals that maintain subscriptions but accept [[Open Access]] Publications
 - "Inclusive access" to textbooks
 
-#### Transformation to data analytics companies: Elsevier, Pearson, Cengage
+#### Transformation to data analytics companies: [[Elsevier]], [[Pearson]], [[Cengage]]
 
 Build analytics on top of scientific content that can be monetized without abandoning traditional conent business
 - Very large and profitable relative to toal size of business

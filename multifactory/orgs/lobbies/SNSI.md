@@ -1,5 +1,5 @@
 
-The major publisher lobbying group re: sci-hub
+The major publisher lobbying group re: [[Sci-Hub]]
 
 Less than two months later, [[Nick Fowler]], chief academic officer at [[Elsevier]], [announced](https://www.researchinformation.info/analysis-opinion/working-together-protect-cyber-attacks) the new _Scholarly Networks Security Initiative_ (SNSI), under the title “Working together to protect from cyber attacks”. Fowler was assisted by [[Springer]] chief publishing officer [[Steven Inchcoombe]]. Both introduced themselves as co-chairs of SNSI. One aspect mentioned in the article was that “Awareness of the damage Sci-Hub is inflicting on institutions and academia needs to be increased.” The idea being that publishers and institutional libraries work together to fight a common enemy.
 "[[Nick Fowler]]"

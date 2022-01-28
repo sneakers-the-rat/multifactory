@@ -1,0 +1,2 @@
+https://www.crossref.org/pdfs/CrossRef10Years.pdf
+[[DOI]] subcommittee of [[AAP]] Enabling Technologies Committee, under leadership of [[Howard Ratner]], then of [[Springer]] . Under joint sponsorship of [[CNRI]], [[International DOI Foundation]], participation of [[Academic Press]], [[AIP]], [[Elsevier]], [[ISI]], [[Wiley]], [[Wolters Kluwer]], [[Springer]], [[RoweCom]]

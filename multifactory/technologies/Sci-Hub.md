@@ -1,0 +1,1 @@
+Scourge of for-profit publishers everywhere

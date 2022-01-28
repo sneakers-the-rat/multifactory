@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0fad9d4fc83b6c77",
+        "id": "b849559a73fad61b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "orgs/International DOI Foundation.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "STM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286,
-    "collapsed": true
+    "width": 382
   },
   "right": {
     "id": "c93deb468a269479",
@@ -66,13 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "orgs/International DOI Foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -82,17 +86,17 @@
     "direction": "horizontal",
     "width": 281
   },
-  "active": "0fad9d4fc83b6c77",
+  "active": "b849559a73fad61b",
   "lastOpenFiles": [
-    "papers/articles/Publishing Community Efforts and Solutions to Mitigate the Risks of Sci-Hub.md",
-    "orgs/companies/RedLink.md",
-    "technologies/RedLink/SiteLeads.md",
-    "people/Kent Anderson.md",
-    "orgs/blogs/The Scholarly Kitchen.md",
-    "orgs/lobbies/SSP.md",
-    "papers/articles/Our Insurrection Continues.md",
-    "orgs/publishers/NEJM.md",
-    "orgs/publishers/JBJS.md",
-    "orgs/societies/AAAS.md"
+    "orgs/International DOI Foundation.md",
+    "technologies/DOI.md",
+    "IDF.md",
+    "people/Claudio Aspesi.md",
+    "papers/articles/Landscape Analysis - The Changing Academic Publishing Industry - Implications for Academic Institutions.md",
+    "orgs/publishers/Elsevier.md",
+    "orgs/publishers/Pearson.md",
+    "orgs/publishers/Cengage.md",
+    "orgs/enterprise_concepts/Open Access.md",
+    "technologies/surveillance/PDF Fingerprinting.md"
   ]
 }

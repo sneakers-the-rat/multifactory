@@ -4,7 +4,7 @@ https://www.snsi.info/news-and-events/cybersecurity-landscape/
 
 - opening by [[Nick Fowler]] - Chief academic officer, [[Elsevier]]
 - closing by [[Steven Inchcoombe]] of [[Springer]]
-- Sci-hub talk by [[Crane Hassold]] of [[Agari]]
+- [[Sci-Hub]] talk by [[Crane Hassold]] of [[Agari]]
 - CISO [[Corey Roach]]
 - Library Patron Security and why it's important [[Linda Van Keuren]]
 - Foreign interference in Academic [[Joseph DeMarco]]

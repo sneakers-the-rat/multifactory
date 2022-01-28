@@ -6,4 +6,6 @@ Presenters
 [[Sari Frances]]
 [[Kelechi Okere]]
 
+about [[Sci-Hub]]
+
 at [[educause]] [[Security Professionals Conference]]
