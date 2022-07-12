@@ -4,7 +4,6 @@ A sample:
 
 ```json
 [
-
 "FCi27mtaKod38ztmGndn-y8NNz.r.lt6SndqGztz_ztr-ngqQm9aMo9eOnMeJntuNntu",
 "D2ei2mgqJz9b-m.mGmPqRyLNNnwmOlt7.ywiGmt-Kndr9otqRywv8o9ePmtiNmd2Sn92Tma",
 "6U7vcmPuOn9uLnMaGyM7-nLNNntv9lt6RmtaGmweOyMmJnMmSmgmOo9eOnM6LnMaRmM-Tma",
@@ -33,7 +32,6 @@ A sample:
 "6U7vcngj-zt2Ln.uGodr8mcNNmdeSlweKmd2Gzdz9nM3_mgf7yt2Ro9ePmt6Sn9qLntyTma",
 "zjJBNmPn.mdiRntiGzgmPnLNNmM2Klt6JmMqGy9aNz9aMmdv_mwuNo9ePm96Qm9iRndiTma",
 "FCi27mPmRnPiKngeGngqJzcNNogj8lwj-zwiGnPiLmtb7y9qKzgeMo9eOnMeLn9aNm9m"
-
 ]
 
 ```

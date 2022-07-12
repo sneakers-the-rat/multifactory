@@ -1,0 +1,2 @@
+https://learn.fireeye.com/tips-and-insights/hunting-for-weak-indicators/
+[[Christian Schreiber]] for [[FireEye]], "how to use FireEye's [[Helix]] analytics to hunt for potentially compromised user accounts" re: [[Multifactor Authentication]]

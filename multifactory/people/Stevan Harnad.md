@@ -1,0 +1,1 @@
+According to [[Peter Suber]], coined the terms [[Gold OA]], [[Green OA]], and Self-archiving (though the last one i don't see as necessarily needing coining...)

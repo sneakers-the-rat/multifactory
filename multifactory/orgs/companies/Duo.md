@@ -1,3 +1,4 @@
+A [[Multifactor Authentication]] company
 
 # People
 
@@ -5,9 +6,26 @@ Employees
 - [[Dug Song]] - VP general manager
 - [[Brian Verenkoff]]
 - [[Jon Oberheide]]
+- [[John Kim]]
+- [[Bart Green]]
+- [[William Welch]]
+- 
 
 Board memebers
 - [[Lorrie Marie Norrington]] 
+- [[Hilarie Koplow-McAdams]]
+- [[Stratton Sclavos]]
+- [[Ron Gill]]
+- [[Karim Faris]]
+- [[Rob Ward]]
+- [[Matt Cohler]]
+
+Investors
+- [[Redpoint]]
+
+Relationships
+* [[Internet2]] [[NET+ Program]] - https://internet2.edu/services/duo-security/
+	* Advisory Board ioncludes [[David Allen]], [[Ryan Laus]], [[Nick Lewis]]
 
 # History
 

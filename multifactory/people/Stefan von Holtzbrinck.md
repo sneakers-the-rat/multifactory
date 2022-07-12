@@ -1,1 +1,1 @@
-of [[AIP]] and [[Springer]]
+of [[AIP]] and [[Springer]], chairman of [[Holtzbrinck]]

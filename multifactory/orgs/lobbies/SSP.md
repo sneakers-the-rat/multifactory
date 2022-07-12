@@ -22,3 +22,4 @@ The Society for Scholarly Publishing (SSP), founded in 1978, is a nonprofit orga
 - [[Randy Townsend]] of [[PLOS]]
 - [[David Crotty]] of [[Clarke & Esposito]]
 - [[Melanie Dolechick]], executive director
+
